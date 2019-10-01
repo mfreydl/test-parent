@@ -1,0 +1,20 @@
+{
+  "name": "test-parent",
+  "version": "1.0.0",
+  "description": "for testing versioning and shared component source mgmt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfreydl/test-parent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfreydl/test-parent/issues"
+  },
+  "homepage": "https://github.com/mfreydl/test-parent#readme"
+}
