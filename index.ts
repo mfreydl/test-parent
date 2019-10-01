@@ -1,5 +1,8 @@
-import { asSmallLetters } from "test-shared"
+// import { asSmallLetters } from "test-shared"
 
 
 let myName = "Jack Johnson"
-console.log(`${myName} ==>  ${asSmallLetters(myName)}`)
+console.log("Submodule workflow test project")
+
+console.log(`Original name: ${myName}`)
+// console.log(`${myName} ==>  ${asSmallLetters(myName)}`)
