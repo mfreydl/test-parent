@@ -1,0 +1,3 @@
+[submodule "submodules/test-shared"]
+	path = submodules/test-shared
+	url = https://github.com/mfreydl/test-shared.git
