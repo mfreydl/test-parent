@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/mfreydl/test-parent/issues"
   },
-  "homepage": "https://github.com/mfreydl/test-parent#readme"
+  "homepage": "https://github.com/mfreydl/test-parent#readme",
+  "dependencies": {
+    "@mfreydl/toyhauler-api-framework": "^1.0.56-39",
+    "toyhauler-common": "0.0.3-63"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.7",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
 }
