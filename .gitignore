@@ -62,3 +62,5 @@ typings/
 
 
 bin
+dist
+node_modules
