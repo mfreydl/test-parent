@@ -1,12 +1,5 @@
 {
   "name": "test-parent",
   "tenantCode": "unregistered",
-  "submodules": [
-    {
-      "cloneUrl": "https://github.com/mfreydl/test-shared.git",
-      "folderName": "test-shared",
-      "lastUsedVersion": "",
-      "packageName": ""
-    }
-  ]
+  "submodules": []
 }
