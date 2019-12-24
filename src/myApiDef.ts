@@ -1,4 +1,4 @@
-import { apiDef, apiHost } from "@mfreydl/toyhauler-api-framework/bin";
+import { apiDef, apiHost } from "@mfreydl/toyhauler-api-framework/dist";
 
 export class myApiDef extends apiDef {
 
@@ -7,6 +7,10 @@ export class myApiDef extends apiDef {
      */
     constructor() {
         super();
+
+    }
+
+    public defineEndpoints(host: apiHost): void {
 
     }
 

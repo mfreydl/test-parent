@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mfreydl/test-parent#readme",
   "dependencies": {
+    "@mfreydl/test-shared": "0.0.0-1",
     "@mfreydl/toyhauler-api-framework": "^1.0.56-39",
     "toyhauler-common": "0.0.3-63"
   },
